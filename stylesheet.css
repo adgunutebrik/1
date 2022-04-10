@@ -1293,7 +1293,7 @@ audio {
 		font-family: 'Signika', sans-serif;
 		animation: bouncebtn 4s infinite;
 		cursor: pointer;
-	margin-bottom:200px;
+	margin-bottom:100px;
 }
     .btn-primary:hover,
     .btn-primary:focus,
