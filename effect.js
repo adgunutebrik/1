@@ -5,7 +5,7 @@ $(window).load(function(){
 $('document').ready(function(){
 		var vw;
 		$(window).resize(function(){
-			 vw = $(window).width()/2 - 25;
+			 vw = $(window).width()/2-25;
 			$('#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8').stop();
 			$('#b11').animate({top:240, left: vw-175},500);
 			$('#b22').animate({top:240, left: vw-125},500);
